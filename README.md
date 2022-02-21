@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iamshyley
+- 👋 Hi, I’m @Faleti Sulaimon
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning android app development
 - 💞️ I’m looking to collaborate on any app development
